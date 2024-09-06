@@ -10,7 +10,7 @@ You will need to include the organization or organization ID as well.
 +
 [options="nowrap", subs="+quotes,attributes"]
 ----
-# hammer -u admin -p changeme capsule content synchronize --help
+$ hammer {hammer-smart-proxy} content synchronize --help
 Usage:
     hammer capsule content synchronize [OPTIONS]Options:
  --async                                   Do not wait for the task
