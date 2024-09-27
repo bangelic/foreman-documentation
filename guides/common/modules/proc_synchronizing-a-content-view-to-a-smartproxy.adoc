@@ -1,12 +1,12 @@
-[id="Synchronizing_a_Content_View_{context}"]
-= Synchronizing a content view
+[id="Synchronizing_a_Content_View_to_a_{smart-proxy-context}{context}"]
+= Synchronizing a content view to a {SmartProxy}
 
-You can use the Hammer CLI to synchronize a content view.
+You can use the Hammer CLI to synchronize a content view to a {SmartProxy}.
 You need to specify the content view or content view ID along with the lifecycle environment or lifecycle environment ID.
 You will need to include the organization or organization ID as well.
 
 .CLI procedure
-* Synchronize the content view by using Hammer:
+* Synchronize the content view to a {SmartProxy} by using Hammer:
 +
 [options="nowrap", subs="+quotes,attributes"]
 ----
